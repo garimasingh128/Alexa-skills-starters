@@ -1,10 +1,12 @@
 ﻿# 👣 **Awesome Alexa skills**
 ### 🧐 A collection of super-cool Amazon Alexa skills for starters!! ✨
+<div align='center'><p align="center"><img src="https://i.ibb.co/k55Sb6D/t.gif" alt="t" border="0"></p></div>
 
 ![Author](https://img.shields.io/badge/author-garimasingh128-orange)
 ![License](https://img.shields.io/badge/license-MIT-brightgreen)
 ![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
 ![Maintained](https://img.shields.io/maintenance/yes/2020)
+
 
 
 
