@@ -1,0 +1,87 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "sheldon game",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "GameIntent",
+          "slots": [
+            {
+              "name": "action",
+              "type": "ACTION"
+            }
+          ],
+          "samples": [
+            "{action}"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        }
+      ],
+      "types": [
+        {
+          "values": [
+            {
+              "name": {
+                "value": "spock",
+                "synonyms": [
+                  "spok"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "lizard",
+                "synonyms": [
+                  "reptile",
+                  "gecko"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "scissors",
+                "synonyms": [
+                  "scissor",
+                  "knife"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "paper",
+                "synonyms": [
+                  "page"
+                ]
+              }
+            },
+            {
+              "name": {
+                "value": "rock",
+                "synonyms": [
+                  "stone"
+                ]
+              }
+            }
+          ],
+          "name": "ACTION"
+        }
+      ]
+    }
+  },
+  "version": "3"
+}
