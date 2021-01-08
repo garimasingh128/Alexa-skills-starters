@@ -8,6 +8,7 @@
 
 Join Gitter channel for discussion: https://gitter.im/SWOC2021/Alexa-skills-starters
 
+
 # 💻 What are Amazon alexa skills? 👣
 Alexa is Amazon’s Voice Service, accessed through Amazon Echo. After the set up process, you simply say the word ‘Alexa’ and Echo will light up and Alexa will respond. You can change this 'wake word' to either 'Amazon' or 'Echo'. Alexa can help you with music playback, making to-do lists, setting alarms, streaming podcasts, playing audiobooks, as well as providing weather, traffic and other real-time information.
 
@@ -57,6 +58,6 @@ Please adhere towards our [code-of-conduct.md](code-of-conduct.md).
 <a href="https://github.com/garimasingh128"><img src="https://avatars3.githubusercontent.com/u/44302373?s=460&u=efaafa72f4d83d40b66fc68258d14cebbf1d7de0&v=4" width="100px;" alt=""/><br /><sub><b>Garima Singh</b></sub></a>
 
 
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/garimasingh128)
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/garimasingh128) [![Join the chat at https://gitter.im/SWOC2021/Alexa-skills-starters](https://badges.gitter.im/SWOC2021/Alexa-skills-starters.svg)](https://gitter.im/SWOC2021/Alexa-skills-starters?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## ❤️ Thanks to the awesome Amazon community!
