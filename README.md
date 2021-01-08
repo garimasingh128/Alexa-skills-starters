@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
 ![Maintained](https://img.shields.io/maintenance/yes/2020)
 
-
+Join Gitter channel for discussion: https://gitter.im/SWOC2021/Awesome-python-projects
 
 # 💻 What are Amazon alexa skills? 👣
 Alexa is Amazon’s Voice Service, accessed through Amazon Echo. After the set up process, you simply say the word ‘Alexa’ and Echo will light up and Alexa will respond. You can change this 'wake word' to either 'Amazon' or 'Echo'. Alexa can help you with music playback, making to-do lists, setting alarms, streaming podcasts, playing audiobooks, as well as providing weather, traffic and other real-time information.
