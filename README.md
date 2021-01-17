@@ -37,7 +37,7 @@ You'll find all the skills on your Alexa app. If you're looking for the EDF Ener
       (git clone https://github.com/<your-github-username>/garimasingh128/Alexa-skills-starters)
 ```    
 
-
+### Make all PRs to _develop_ branch only!!! :)
 
 >## 💻&nbsp; System Requirements
 -  Git
