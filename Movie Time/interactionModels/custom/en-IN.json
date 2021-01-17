@@ -1,0 +1,38 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "movie time",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "MovieIntent",
+          "slots": [],
+          "samples": [
+            "Movie",
+            "Weekend Movie",
+            "New movies this weekend",
+            "Get me a latest movie",
+            "Suggest me a movie"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "3"
+}
