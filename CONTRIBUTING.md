@@ -8,7 +8,7 @@ Try adding new skills to test on Alexa. Contributing to this project is as easy 
 ## We Develop with Github
 We use github to host code, to track issues and feature requests, as well as accept pull requests.
 
-## Working on the skill and extracting the contents:
+## Working on the skill and extracting the contents
 
 - Visit https://developer.amazon.com/alexa/console/ask/create-new-skill to create a new skill.
 - After completing the skill, select the skill from the list of skills.
