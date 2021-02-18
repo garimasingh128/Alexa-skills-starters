@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/platform-Visual%20Studio%20Code-blue)
 ![Maintained](https://img.shields.io/maintenance/yes/2020)
 
-Join Gitter channel for discussion: https://gitter.im/SWOC2021/Alexa-skills-starters
+Join our Glitter channel for discussion: https://gitter.im/SWOC2021/Alexa-skills-starters
 
 
 # 💻 What are Amazon alexa skills? 👣
@@ -41,7 +41,7 @@ You'll find all the skills on your Alexa app. If you're looking for the EDF Ener
 >## 💻&nbsp; System Requirements
 -  Git
 -  Code Editor (Visual Studio Code, Sublime Text)
-- Account on Amazon Developer console
+-  Account on Amazon Developer console
 
 >## 🏆&nbsp; Contributing
 
