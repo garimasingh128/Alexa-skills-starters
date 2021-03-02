@@ -19,6 +19,9 @@ Alexa skills are like apps. You can enable and disable skills, using the Alexa a
 You'll find all the skills on your Alexa app. If you're looking for the EDF Energy Alexa skill to complete the account linking process, type 'EDF Energy' in the search box. You can then follow the account linking process. Account has been linked, but can't find the EDF Energy Alexa skill? In your Alexa app visit 'My Skills' and search for 'EDF Energy' there.
 
 >## ✍&nbsp; Skills developed
+- Movie Time - gives you a good movie recommendation
+- Quote - Speaks out a random inspirational quote from a list of quotes, each time user speaks/types "hello"
+- Sheldon Game - The game is an expansion on the game Rock, Paper, Scissors
 - Cakewalk - A starter template for beginners
 - My inspirations - Suggests quotes and thoughts
 - Touristy - Tells info about tourist places of Australia
